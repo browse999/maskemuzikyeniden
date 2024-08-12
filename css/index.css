@@ -1,0 +1,35 @@
+.encoksatilanlar img{
+
+    height: 50%;
+    margin-left: 50px;
+}
+
+span {
+    font-size: 12px;
+    font-family: monospace;
+}
+.urun span{
+    
+    color: red;
+    margin-left: 80px;
+    font-size:15px;
+}
+
+.btn a {
+    color: red;
+}
+
+.encoksatilanlar {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: red;
+} 
+
+h2 , h1 {
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: red;
+}
